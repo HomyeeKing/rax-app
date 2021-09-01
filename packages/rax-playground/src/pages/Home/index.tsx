@@ -12,6 +12,7 @@ export default function Home() {
       <Text className={styles.homeTitle}>Welcome to Your Rax App</Text>
       <Text className={styles.homeInfo}>More information about Rax</Text>
       <Text className={styles.homeInfo}>Visit https://rax.js.org</Text>
+      <Text className="text-blue-400" >test</Text>
     </View>
   );
 }

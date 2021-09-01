@@ -1,6 +1,7 @@
 # https://github.com/github/gitignore/blob/master/Node.gitignore
 # Dependencies
 node_modules
+packages/**/node_modules
 jspm_packages
 
 package-lock.json
