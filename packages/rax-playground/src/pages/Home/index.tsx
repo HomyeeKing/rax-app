@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <span>left</span>
+      <span>left1</span>
       <span>right</span>
     </div>
   );
